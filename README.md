@@ -1,4 +1,4 @@
-#Possible Outcome
+# Possible Outcome
 
 We will be able to manipulate light from far in this project. Android phones, laptops, and other
 smart gadgets are examples. Let's pretend that someone neglected to turn off the light in his
